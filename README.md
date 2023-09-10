@@ -1,5 +1,5 @@
 # webscraping-challenge
-Module 11 Challenge - Web Scraping
+Module 11 Challenge - Web Scraping </br>
 Contributor: Katy Yelle
 
 ### Repository Structure
